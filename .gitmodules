@@ -1,3 +1,4 @@
 [submodule "client"]
 	path = client
 	url = https://github.com/penny-five/tuntematon2017
+	ignore = dirty
